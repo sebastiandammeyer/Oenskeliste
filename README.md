@@ -1,4 +1,4 @@
-# Oenskeliste
+# Ønskeliste
 Sebastians ønskeliste
 
 * Slibesten 
